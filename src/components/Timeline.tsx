@@ -6,30 +6,30 @@ import { useRef } from "react";
 const TIMELINE_DATA = [
   {
     year: "2024 - Present",
+    title: "B.Tech Computer Science Engineering",
+    org: "Second Year | Pursuing",
+    description: "Studying core computer science concepts including Data Structures, Algorithms, Operating Systems, DBMS. Active in learning full-stack development and building real-world projects.",
+    type: "education",
+  },
+  {
+    year: "2023 - Present",
     title: "Full Stack Developer",
-    org: "Freelance & Open Source",
-    description: "Architecting enterprise-scale applications like 'Elite Hotel' (Microservices) and 'Nxtcart' (E-commerce). Expertise in Next.js, Docker, Kubernetes, and Cloud Architecture.",
+    org: "Self-Taught & Projects",
+    description: "Dedicated to mastering MERN stack and modern web technologies. Built multiple projects showcasing expertise in React, Node.js, MongoDB, and cloud deployment.",
     type: "work",
   },
   {
     year: "2023",
-    title: "The Pivot to Tech",
-    org: "Self-Taught Journey",
-    description: "Graduated with a Bachelor of Commerce but discovered a passion for problem-solving. Dedicated 1000+ hours to mastering the MERN stack and software engineering fundamentals.",
+    title: "Tech Journey Begins",
+    org: "Self-Learning",
+    description: "Started learning web development after discovering passion for problem-solving through technology. Completed courses on web development fundamentals and started building projects.",
     type: "milestone",
   },
   {
-    year: "2020 - 2023",
-    title: "Bachelor of Commerce",
-    org: "Calicut University",
-    description: "Graduated with a specialization in Co-operation. Developed a strong analytical mindset and understanding of business logic.",
-    type: "education",
-  },
-  {
-    year: "2018 - 2020",
-    title: "Computer Applications",
-    org: "GHSS Tirurangadi",
-    description: "Higher Secondary in Commerce with Computer Applications. Early exposure to programming concepts which sparked my initial interest in tech.",
+    year: "2022",
+    title: "High School",
+    org: "Completed",
+    description: "Completed high school education. Developed interest in computer science and decided to pursue engineering.",
     type: "education",
   },
 ];
@@ -57,8 +57,7 @@ export default function Timeline() {
              My <span className="text-transparent bg-clip-text bg-linear-to-r from-blue-400 to-purple-400">Journey</span>
           </h2>
           <p className="text-gray-400 text-lg max-w-2xl mx-auto leading-relaxed">
-            From writing my first "Hello World" to building complex applications. 
-            Here is a glimpse into my professional evolution.
+            From discovering my passion for technology to building scalable applications. Here's my professional evolution.
           </p>
         </motion.div>
 

@@ -3,9 +3,9 @@
 import { motion } from "framer-motion";
 
 const skills = [
-  { category: "Frontend", items: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Framer Motion", "Redux"] },
-  { category: "Backend", items: ["Node.js", "Express", "Microservices", "PostgreSQL", "MongoDB", "RabbitMQ"] },
-  { category: "DevOps & Cloud", items: ["Docker", "Kubernetes", "AWS EC2", "AWS S3", "CI/CD", "Nginx"] },
+  { category: "Frontend", items: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "JavaScript"] },
+  { category: "Backend", items: ["Node.js", "Express.js", "MongoDB", "Firebase", "RESTful APIs", "Microservices"] },
+  { category: "Tools & DevOps", items: ["Git", "GitHub", "Docker", "VS Code", "Vercel", "Linux"] },
 ];
 
 export default function Skills() {
@@ -25,10 +25,10 @@ export default function Skills() {
           className="mb-16"
         >
           <h2 className="text-5xl md:text-7xl font-bold text-white mb-6 tracking-tight">
-            Technical <span className="text-transparent bg-clip-text bg-linear-to-r from-blue-400 to-purple-400">Arsenal</span>
+            Technical <span className="text-transparent bg-clip-text bg-linear-to-r from-blue-400 to-purple-400">Skills</span>
           </h2>
           <p className="text-gray-400 text-lg max-w-2xl leading-relaxed">
-            A comprehensive stack enabling end-to-end development of scalable applications.
+            A comprehensive stack enabling end-to-end development and problem-solving through modern technologies.
           </p>
         </motion.div>
 
