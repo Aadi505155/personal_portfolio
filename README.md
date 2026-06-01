@@ -1,4 +1,4 @@
-# Fawaz V - Personal Portfolio
+# Aditya Bisht - Personal Portfolio
 
 A premium, interactive personal portfolio website built with modern web technologies to showcase my projects, technical skills, and professional journey.
 
@@ -47,8 +47,8 @@ A premium, interactive personal portfolio website built with modern web technolo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/fawazv/personal_porfolio.git
-   cd personal_porfolio
+   git clone https://github.com/Aadi505155/personal_portfolio.git
+   cd personal_portfolio
    ```
 
 2. Install dependencies:
@@ -81,7 +81,7 @@ A premium, interactive personal portfolio website built with modern web technolo
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/fawazv/personal_porfolio/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Aadi505155/personal_portfolio/issues).
 
 ## 📄 License
 
